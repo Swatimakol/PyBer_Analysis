@@ -6,13 +6,15 @@ Using Matplotlib, Python and Pandas to analyze and visualize Ride-sharing data w
 
 The Main Purpose of this project to analyze two large set of Data: city_data, ride_data
 
-1. From these two Data sets - Visualize into one Date set.
+1. From these two Data sets - we Visualized into one Date set.
 
 2. This Data set show-cases three categories Urban, Rural, Suburban city types.
 
 3. Via these categories we got the total fares, avg fare/driver, avg fare/ride
 
-4. Now using this retrieved information - We were able to get weekly fare values for Urban, Rural, Suburban categories
+4. Now using this retrieved information - We were able to get weekly fare values for Urban, Rural, Suburban categorie
+
+5. Displayed it in a Graph to understand the Trend better
 
 #### This in the end can help us improvize access to ride-sharing service and determining the affordability for underserved neighborhoods.
 
@@ -39,8 +41,8 @@ The Total Summary is:
 ![](/analysis/Total_summary.png)
 
 
-With the above chat we understand that Urban areas ahve more drivers leading to more rides which in turn gives low average fare price for a rider as well as to the driver.
-The Rural areas are in the bottom of the list with higher avergae fare price to a rider but it gives better average price to the rider in comaprison to Suburban and Urban.
+With the above chart we understand that Urban areas have more drivers leading to more rides which in turn gives low average fare price for a rider as well as to the driver.
+The Rural areas are in the bottom of the list with higher average fare price to a rider but it gives better average price to the rider in comaprison to Suburban and Urban.
 
 #### Multiple-line Chart
 
