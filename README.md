@@ -28,7 +28,7 @@ After Visulaizng the given data sets, we were able to asses:
 
 3. This results in more rides in *Urban Areas* in comparison to Rural and Suburban(about 13 times higher than rural and 3 times higher than Suburban)
 
-![](/analysis/Fare.png)
+![](/analysis/Rides.png)
 
 4. The diffrence is also reflected in what rider has to pay in average - where Rural areas are paying more than Suburban and Urban
 
@@ -36,7 +36,7 @@ After Visulaizng the given data sets, we were able to asses:
 
 The Total Summary is:
 
-![](Total_summary.png)
+![](/analysis/Total_summary.png)
 
 
 With the above chat we understand that Urban areas ahve more drivers leading to more rides which in turn gives low average fare price for a rider as well as to the driver.
@@ -44,7 +44,7 @@ The Rural areas are in the bottom of the list with higher avergae fare price to 
 
 #### Multiple-line Chart
 
-![Challenge_Fig.png](/analysis/Challenge_Fig.png)
+![](/analysis/Challenge_fig.png)
 
 Multiple-Line Plot conclusion:
 This multiple-line charts showcases the total fare per city type changes by times. The X axis shows date from Jan-2019 to April 2019, and total fare in Y axis. In that line chart, Urban cities have highest total fares all the time, and Rural cities are lowest all over time. Suburban's line is in the middle.
